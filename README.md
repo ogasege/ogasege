@@ -17,7 +17,7 @@ I build production-grade serverless systems and IoT data pipelines serving the U
 - Creating content on AWS automation and serverless architecture
 
 **Developer Advocate & Technical Trainer** | Linux Professional Institute (LPI) Innovation Hub | Apr 2022 - Present
-- Delivered workshops to 150+ developers on AWS and GCP
+- Delivered workshops to 150+ developers
 - Mentored 20+ developers transitioning into cloud engineering
 
 ### Speaking Engagements
@@ -25,22 +25,18 @@ I build production-grade serverless systems and IoT data pipelines serving the U
 **2025**
 - 🎙️ **[ImagiNation 2025](https://selar.com/imagination2025)** - Facilitator (December 6, 2025)
   - Reol Event Centre, Bodija Ashi, Ibadan, Nigeria
-  - Low Budget Engineers x ImagiNation
 
 **2024**
 - 🔧 **[HashiCorp User Group Ibadan](https://www.meetup.com/ibadan-hashicorp-user-group/events/305113963/)** - Workshop Instructor (December 21, 2024)
   - Talk: "Infrastructure as Code with Terraform"
-  - 37 attendees | Hands-on workshop
+  - 37 attendees
 
 - 🚀 **JAWS PANKRATION 2024** - International Speaker (August 24, 2024)
   - Talk: "Building a Serverless Traffic Monitoring System"
-  - 25+ countries represented | Level: LV200
+  - 25+ countries represented
 
 - 🌐 **AWS Global Community Gatherings #5** - Speaker (March 28, 2024)
-  - Theme: "AWS and Me" | Global online event
-
-- 🎯 Presented at **3 conferences** and **5 local meetups** on serverless, Terraform, and open-source
-- 🎓 Delivered workshops to **150+ developers**
+  - Theme: "AWS and Me"
 
 ---
 
@@ -48,35 +44,37 @@ I build production-grade serverless systems and IoT data pipelines serving the U
 
 **Backend Engineer** @ [AMMP Technologies](https://www.ammp.io) | Nov 2024 - Present
 
-- 🏗️ Architect serverless microservices (Lambda, ECS) processing **6M+ daily datapoints** from IoT devices
+- 🏗️ Architect serverless microservices (Lambda, ECS) processing **6M+ daily datapoints**
 - 🔌 Integrate with **25+ vendor APIs** (Huawei, SMA, SolarEdge, Fronius, etc.)
 - 💾 Manage production databases: PostgreSQL, InfluxDB, Redis, OpenSearch
 - ☁️ Design AWS infrastructure with CloudFormation/SAM, VPC, and disaster recovery
-- 🛡️ Ensure compliance with data protection standards for multi-national operations
 
 **Previous:** DevSecOps Engineer @ Constelworks Technologies | Jul 2023 - Nov 2024
-- Built CI/CD pipelines with Terraform and AWS CloudFormation
+- Built CI/CD pipelines with Terraform
 - Maintained SOC 2, PCI DSS, and ISO 27001 compliance frameworks
 
 ---
 
 ## ✍️ Technical Writing
 
-**Writing Stats:**
+I write about AWS, Terraform, serverless architecture, and cloud engineering.
+
+**📊 Writing Stats:**
 - 🎯 **1,760+ followers** on Dev.to
-- 📈 **43,000+ total article views** across platforms
-- 📝 **40+ published articles**
-- 🌍 Readers from **50+ countries**
+- 📝 **21+ published articles**
 
 **Find My Writing:**
-- 📝 [Dev.to/@cloudsege](https://dev.to/cloudsege) - Main technical blog
-- 📰 [cloudsege.hashnode.dev](https://cloudsege.hashnode.dev) - "Bits from Cloudsege"
+- 📝 [Dev.to/@cloudsege](https://dev.to/cloudsege)
+- 📰 [cloudsege.hashnode.dev](https://cloudsege.hashnode.dev)
 
-**Popular Articles:**
-- [Provisioning AWS Infrastructure with Terraform and GitHub Actions](https://dev.to/cloudsege) (1,171 views)
-- [Building the Classic Jotto Word Puzzle with Amazon Q Developer CLI](https://dev.to/cloudsege) (166 views)
-- [3 AM on Christmas: A Cloud Engineer's Holiday Survival Guide](https://dev.to/cloudsege) (218 views)
-- Building Serverlesspresso Series (3-part series on event-driven architecture)
+**🔥 Top Articles:**
+
+1. **[Provisioning AWS Infrastructure using Terraform and Jenkins CI/CD](https://cloudsege.hashnode.dev)** - **24,951 views** ⭐
+2. **[Building and Deploying a Minimal API on AWS ECS/Fargate using Terraform](https://cloudsege.hashnode.dev)** - **9,112 views**
+3. **[AWS IAM User Management: How to get User Information using Lambda and Amazon S3](https://cloudsege.hashnode.dev)** - **1,237 views**
+4. **[AWS Lambda Inventory: How to List and Analyze Lambda Functions and CloudWatch Metrics with AWS SDK](https://cloudsege.hashnode.dev)** - **986 views**
+5. **[EC2 Snapshot Management: How to get AWS EC2 Snapshot Information with Python](https://cloudsege.hashnode.dev)** - **813 views**
+6. **[Non-functional Application Requirements: An Introduction](https://cloudsege.hashnode.dev)** - **666 views**
 
 ---
 
@@ -119,25 +117,21 @@ tech_stack = {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogasege&theme=tokyonight&hide_border=true)
 
+**📈 Activity:** 1,354 contributions in the last year
+
 ---
 
-## 🌍 Global Impact
+## 🌍 Impact
 
-- 🎤 Represented **Nigeria** at JAWS PANKRATION 2024 with speakers from **25+ countries**
-- 🔧 Led **HashiCorp User Group Ibadan** workshop for **37 participants**
-- 🌐 Served clients across **35+ countries** including United Nations
+- 🎤 Represented **Nigeria** at JAWS PANKRATION 2024 (25+ countries)
+- 🔧 Led **HashiCorp User Group Ibadan** workshop (37 participants)
+- 🌐 Serving clients across **35+ countries** including United Nations
 - 📊 Processing **6M+ datapoints daily** from global IoT infrastructure
-- 📝 Technical content read by developers in **50+ countries**
+- 📝 **Top article:** 24,951 views on Terraform + Jenkins CI/CD
 
 ---
 
 ## 💬 Let's Connect!
-
-I love connecting with fellow developers, especially if you're:
-- 🎤 Looking for a speaker for your tech event (AWS, serverless, Terraform, IoT)
-- ☁️ Exploring AWS or serverless architecture
-- 📝 Interested in technical writing
-- 🤝 Building in the cloud/IoT space
 
 **Find me on:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/oluwasegun-adeniyi-adedigba-4a00861b3/)
@@ -148,19 +142,12 @@ I love connecting with fellow developers, especially if you're:
 
 ---
 
-## 📈 Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=ogasege&color=blue&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ogasege?style=social)
-
----
-
 <div align="center">
 
 ### *"Building scalable systems, empowering developers, speaking worldwide"* 🚀
 
 **Recent Speaking:** JAWS PANKRATION 2024 (International) • HashiCorp User Group Ibadan • AWS Global Community Gatherings
 
-**Publications:** 43,000+ views | 40+ articles | 1,760+ followers
+**Top Article:** 24,951 views | **Total Articles:** 21+ | **Followers:** 1,760+
 
 </div>
